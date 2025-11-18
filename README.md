@@ -39,10 +39,6 @@ Visit the live app: [Pokemon TCG Search](https://nfb1799.github.io/pokemon-tcg-s
 
 This app uses the [Pokemon TCG API](https://pokemontcg.io/) to fetch real Pokemon card data and pricing information.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Pokemon TCG API for providing comprehensive card data
