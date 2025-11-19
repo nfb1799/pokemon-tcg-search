@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/pokemon-tcg-search",
+  "homepage": "https://nfb1799.github.io/pokemon-tcg-search",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

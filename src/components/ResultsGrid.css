@@ -1,6 +1,6 @@
 /* ResultsGrid.css */
 .results-container {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -171,31 +171,32 @@
 
 /* Results Header */
 .results-header {
-  background: white;
-  padding: 20px;
-  border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-  text-align: center;
+  background: transparent;
+  padding: 8px 15px;
+  margin-bottom: 20px;
+  text-align: left;
 }
 
 .results-header h2 {
-  margin: 0 0 10px 0;
-  color: #1f2937;
-  font-size: 1.8em;
+  margin: 0 0 4px 0;
+  color: white;
+  font-size: 1.1em;
+  font-weight: 500;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .results-count {
-  color: #6b7280;
+  color: #e5e7eb;
   margin: 0;
-  font-size: 1.1em;
+  font-size: 0.9em;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 /* Results Grid */
 .results-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 25px;
+  gap: 15px;
   margin-bottom: 40px;
 }
 
